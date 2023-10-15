@@ -1,4 +1,4 @@
-
+![logo](https://github.com/AsmitaOjha/AsmitaOjha/blob/main/Banner.png)
 <h1 align="center">Hi 👋, I'm Asmita Ojha</h1>
 <h3 align="center">A passionate computer science student from Nepal</h3>
 <img align="right" alt="coding" width="400" src="https://gifdb.com/images/high/coding-girl-animation-fe7t4gejurmtof8v.webp">
