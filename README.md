@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **https://www.linkedin.com/in/asmita-ojha-aa313a236**
 
-- ⚡ Fun fact **I sleep a lot😁🤭**
+- ⚡ Fun fact **I find hard to cook food.😁🤭**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
