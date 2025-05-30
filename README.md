@@ -1,4 +1,4 @@
-<img src="YouTube Banner - Asmita Ojha's GitHub Profile.png">
+<img src="my banner.png">
 <h1 align="center">Hi there! 👋 I’m Asmita Ojha</h1> <h3 align="center">A Computer Science Student from Nepal with a Passion for Learning</h3> <img align="right" alt="coding" width="400" src="https://gifdb.com/images/high/coding-girl-animation-fe7t4gejurmtof8v.webp"> <p align="left"> <img src="https://komarev.com/ghpvc/?username=asmitaojha&label=Profile%20views&color=0e75b6&style=flat" alt="asmitaojha" /> </p>
 🌱 Currently Learning: Matplotlib, Seaborn, Scikit-learn, Streamlit <br>
 📫 Get in Touch: LinkedIn <br>
