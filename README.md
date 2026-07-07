@@ -1,4 +1,4 @@
-<img src="my banner.png">
+<img src="gemini_tq.png">
 <h1 align="center">Hi there! 👋 It's me Asmita Ojha</h1> <h3 align="center"> Connecting dots of code, APIs and humans</h3> <img align="right" alt="coding" width="400" src="https://gifdb.com/images/high/coding-girl-animation-fe7t4gejurmtof8v.webp"> <p align="left"> <img src="https://komarev.com/ghpvc/?username=asmitaojha&label=Profile%20views&color=0e75b6&style=flat" alt="asmitaojha" /> </p>
 🌱 Currently Learning: Matplotlib, Seaborn, Scikit-learn, Streamlit <br>
 📫 Get in Touch: LinkedIn <br>
